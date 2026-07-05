@@ -284,7 +284,7 @@ class LuatXayDungScraper:
                 headless=True, 
                 args=['--start-maximized', '--disable-blink-features=AutomationControlled'],
                 proxy={
-                    "server": "http://103.129.127.244:8088"
+                    "server": "https://103.129.127.244:8088"
                 }
             )
             context = await browser.new_context(
@@ -551,7 +551,7 @@ class LuatXayDungScraper:
                 headless=True, 
                 args=['--start-maximized', '--disable-blink-features=AutomationControlled'],
                 proxy={
-                    "server": "http://103.129.127.244:8088"
+                    "server": "https://103.129.127.244:8088"
                 }
             )
             context = await browser.new_context(
