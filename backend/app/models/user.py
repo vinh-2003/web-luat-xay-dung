@@ -14,7 +14,7 @@ class User(Base):
     role = Column(String, default="user") # 'user' or 'admin'
     is_active = Column(Integer, default=1) # 1 for active, 0 for inactive
     reset_token = Column(String, nullable=True)
-    created_at = Column(DateTime, default=datetime.utcnow)
+    created_at = Column(DateTime, default=datetime.now)
     
     # Mối quan hệ
     chat_sessions = relationship("ChatSession", back_populates="user")
@@ -26,7 +26,7 @@ class ChatSession(Base):
     id = Column(Integer, primary_key=True, index=True)
     user_id = Column(Integer, ForeignKey("users.id"))
     title = Column(String, nullable=False)
-    created_at = Column(DateTime, default=datetime.utcnow)
+    created_at = Column(DateTime, default=datetime.now)
     
     user = relationship("User", back_populates="chat_sessions")
     messages = relationship("ChatMessage", back_populates="session", cascade="all, delete-orphan")
@@ -38,7 +38,7 @@ class ChatMessage(Base):
     session_id = Column(Integer, ForeignKey("chat_sessions.id"))
     role = Column(String, nullable=False) # 'user' or 'bot'
     content = Column(Text, nullable=False)
-    created_at = Column(DateTime, default=datetime.utcnow)
+    created_at = Column(DateTime, default=datetime.now)
     
     session = relationship("ChatSession", back_populates="messages")
 
@@ -48,6 +48,6 @@ class Bookmark(Base):
     id = Column(Integer, primary_key=True, index=True)
     user_id = Column(Integer, ForeignKey("users.id"))
     document_id = Column(Integer, ForeignKey("documents.id")) # Liên kết tới bảng documents
-    created_at = Column(DateTime, default=datetime.utcnow)
+    created_at = Column(DateTime, default=datetime.now)
     
     user = relationship("User", back_populates="bookmarks")
