@@ -280,7 +280,13 @@ class LuatXayDungScraper:
         """
         db = SessionLocal()
         async with async_playwright() as p:
-            browser = await p.chromium.launch(headless=True, args=['--start-maximized', '--disable-blink-features=AutomationControlled'])
+            browser = await p.chromium.launch(
+                headless=True, 
+                args=['--start-maximized', '--disable-blink-features=AutomationControlled'],
+                proxy={
+                    "server": "http://42.115.103.109:8080"
+                }
+            )
             context = await browser.new_context(
                 no_viewport=True,
                 user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
@@ -541,7 +547,13 @@ class LuatXayDungScraper:
         """
         db = SessionLocal()
         async with async_playwright() as p:
-            browser = await p.chromium.launch(headless=False, args=['--start-maximized', '--disable-blink-features=AutomationControlled'])
+            browser = await p.chromium.launch(
+                headless=True, 
+                args=['--start-maximized', '--disable-blink-features=AutomationControlled'],
+                proxy={
+                    "server": "http://42.115.103.109:8080"
+                }
+            )
             context = await browser.new_context(
                 no_viewport=True,
                 user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
