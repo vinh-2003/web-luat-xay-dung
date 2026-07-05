@@ -1,0 +1,497 @@
+[
+  {
+    "url": "https://vbpl.vn/",
+    "status": 200,
+    "type": "document"
+  },
+  {
+    "url": "https://vbpl.vn/_next/static/css/8ba37b0d566f49a5.css",
+    "status": 200,
+    "type": "stylesheet"
+  },
+  {
+    "url": "https://vbpl.vn/_next/static/css/28edec6ac9fc143e.css",
+    "status": 200,
+    "type": "stylesheet"
+  },
+  {
+    "url": "https://vbpl.vn/_next/static/css/373451217179676f.css",
+    "status": 200,
+    "type": "stylesheet"
+  },
+  {
+    "url": "https://vbpl.vn/_next/static/css/b8c9002c7c76ee35.css",
+    "status": 200,
+    "type": "stylesheet"
+  },
+  {
+    "url": "https://vbpl.vn/_next/static/css/49daacd43e9af662.css",
+    "status": 200,
+    "type": "stylesheet"
+  },
+  {
+    "url": "https://vbpl.vn/_next/static/css/34afb6383ee9127f.css",
+    "status": 200,
+    "type": "stylesheet"
+  },
+  {
+    "url": "https://vbpl.vn/_next/static/css/e556e42179d987fa.css",
+    "status": 200,
+    "type": "stylesheet"
+  },
+  {
+    "url": "https://vbpl.vn/_next/static/css/d9c1437e7f7d507c.css",
+    "status": 200,
+    "type": "stylesheet"
+  },
+  {
+    "url": "https://vbpl.vn/_next/static/css/bf1b5df08a13f1da.css",
+    "status": 200,
+    "type": "stylesheet"
+  },
+  {
+    "url": "https://vbpl.vn/_next/static/chunks/webpack-691fef0698a0f50e.js",
+    "status": 200,
+    "type": "script"
+  },
+  {
+    "url": "https://vbpl.vn/_next/static/chunks/c5815725-ada71e28e7ceb961.js",
+    "status": 200,
+    "type": "script"
+  },
+  {
+    "url": "https://vbpl.vn/_next/static/chunks/9644-15479afcfb8b3516.js",
+    "status": 200,
+    "type": "script"
+  },
+  {
+    "url": "https://vbpl.vn/_next/static/chunks/main-app-260692756eb81bf4.js",
+    "status": 200,
+    "type": "script"
+  },
+  {
+    "url": "https://vbpl.vn/_next/static/chunks/9957-15962029e99f9fbf.js",
+    "status": 200,
+    "type": "script"
+  },
+  {
+    "url": "https://vbpl.vn/_next/static/chunks/7707-7c5e1c23e3f0b6b4.js",
+    "status": 200,
+    "type": "script"
+  },
+  {
+    "url": "https://vbpl.vn/_next/static/chunks/7803-fe8fded55cf53df9.js",
+    "status": 200,
+    "type": "script"
+  },
+  {
+    "url": "https://vbpl.vn/_next/static/chunks/3874-e7039e18acb56e28.js",
+    "status": 200,
+    "type": "script"
+  },
+  {
+    "url": "https://vbpl.vn/_next/static/chunks/2532-ad905b5303a33268.js",
+    "status": 200,
+    "type": "script"
+  },
+  {
+    "url": "https://vbpl.vn/_next/static/chunks/2143-ab2bb47dba5795d8.js",
+    "status": 200,
+    "type": "script"
+  },
+  {
+    "url": "https://vbpl.vn/_next/static/chunks/4678-07aaacaeccd37b6f.js",
+    "status": 200,
+    "type": "script"
+  },
+  {
+    "url": "https://vbpl.vn/_next/static/chunks/5537-a43189338d4a48ff.js",
+    "status": 200,
+    "type": "script"
+  },
+  {
+    "url": "https://vbpl.vn/_next/static/chunks/9070-5b6864ae5e909655.js",
+    "status": 200,
+    "type": "script"
+  },
+  {
+    "url": "https://vbpl.vn/_next/static/chunks/4447-272c3eede6257797.js",
+    "status": 200,
+    "type": "script"
+  },
+  {
+    "url": "https://vbpl.vn/_next/static/chunks/4667-3b142f843663e1c6.js",
+    "status": 200,
+    "type": "script"
+  },
+  {
+    "url": "https://vbpl.vn/_next/static/chunks/7210-8217fab2ec0c33a0.js",
+    "status": 200,
+    "type": "script"
+  },
+  {
+    "url": "https://vbpl.vn/_next/static/chunks/2970-e9b57dad8748a192.js",
+    "status": 200,
+    "type": "script"
+  },
+  {
+    "url": "https://vbpl.vn/_next/static/chunks/3600-110a43f99391da6f.js",
+    "status": 200,
+    "type": "script"
+  },
+  {
+    "url": "https://vbpl.vn/_next/static/chunks/1949-8d4fa8f217d12ae7.js",
+    "status": 200,
+    "type": "script"
+  },
+  {
+    "url": "https://vbpl.vn/_next/static/chunks/app/page-6fe5f916241c96d3.js",
+    "status": 200,
+    "type": "script"
+  },
+  {
+    "url": "https://vbpl.vn/_next/static/chunks/9814-0a6f2f413bc1ff9f.js",
+    "status": 200,
+    "type": "script"
+  },
+  {
+    "url": "https://vbpl.vn/_next/static/chunks/690-8c9075de57baa537.js",
+    "status": 200,
+    "type": "script"
+  },
+  {
+    "url": "https://vbpl.vn/_next/static/chunks/1255-8fa499a595280b89.js",
+    "status": 200,
+    "type": "script"
+  },
+  {
+    "url": "https://vbpl.vn/_next/static/chunks/app/layout-240562d8dca26bea.js",
+    "status": 200,
+    "type": "script"
+  },
+  {
+    "url": "https://vbpl.vn/_next/static/chunks/app/error-8f97ee14c493dfba.js",
+    "status": 200,
+    "type": "script"
+  },
+  {
+    "url": "https://vbpl.vn/_next/static/chunks/app/not-found-582eadf43cc0617e.js",
+    "status": 200,
+    "type": "script"
+  },
+  {
+    "url": "https://vbpl.vn/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fquochuyfooter.ef1175b1.png&w=96&q=75",
+    "status": 200,
+    "type": "image"
+  },
+  {
+    "url": "https://vbpl.vn/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FTr%E1%BB%91ng_%C4%91%E1%BB%93ng_%C4%90%C3%B4ng_S%C6%A1n.c5fc784a.png&w=3840&q=75",
+    "status": 200,
+    "type": "image"
+  },
+  {
+    "url": "https://vbpl.vn/_next/static/media/trongdongfooter.8029e33f.png",
+    "status": 200,
+    "type": "image"
+  },
+  {
+    "url": "https://www.google.com/recaptcha/api.js?render=6LedaiwsAAAAALjlCOkKYO8plQAYnoYTj5LCwRwp",
+    "status": 200,
+    "type": "script"
+  },
+  {
+    "url": "https://vbpl.vn/",
+    "status": 200,
+    "type": "fetch"
+  },
+  {
+    "url": "https://vbpl.vn/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fbg-header-new.9ec857c2.png&w=1920&q=75",
+    "status": 200,
+    "type": "image"
+  },
+  {
+    "url": "https://vbpl.vn/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fcong-thong-tin-quoc-gia.77821d53.png&w=384&q=75",
+    "status": 200,
+    "type": "image"
+  },
+  {
+    "url": "https://vbpl.vn/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fbo-tu-phap.ef175e89.png&w=384&q=75",
+    "status": 200,
+    "type": "image"
+  },
+  {
+    "url": "https://vbpl.vn/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FcongBao.d3c693b2.png&w=384&q=75",
+    "status": 200,
+    "type": "image"
+  },
+  {
+    "url": "https://vbpl.vn/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FboNgoaiGiao.552be918.png&w=384&q=75",
+    "status": 200,
+    "type": "image"
+  },
+  {
+    "url": "https://vbpl.vn/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FtoaAn.8eb93514.png&w=384&q=75",
+    "status": 200,
+    "type": "image"
+  },
+  {
+    "url": "https://vbpl.vn/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fcong-thong-tin-phap-dien.d417d605.png&w=384&q=75",
+    "status": 200,
+    "type": "image"
+  },
+  {
+    "url": "https://vbpl.vn/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fpaknvbqppl.5b298666.png&w=828&q=75",
+    "status": 200,
+    "type": "image"
+  },
+  {
+    "url": "https://vbpl.vn/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fcong-dich-vu-quoc-gia.d01f2b69.png&w=384&q=75",
+    "status": 200,
+    "type": "image"
+  },
+  {
+    "url": "https://vbpl.vn/_next/static/media/inter-latin-700-normal.953b7aa5.woff2",
+    "status": 200,
+    "type": "font"
+  },
+  {
+    "url": "https://vbpl.vn/_next/static/media/inter-latin-ext-400-normal.32a25442.woff2",
+    "status": 200,
+    "type": "font"
+  },
+  {
+    "url": "https://vbpl.vn/_next/static/media/inter-latin-400-normal.ef6d3f52.woff2",
+    "status": 200,
+    "type": "font"
+  },
+  {
+    "url": "https://vbpl.vn/_next/static/media/inter-latin-ext-700-normal.b63daa1a.woff2",
+    "status": 200,
+    "type": "font"
+  },
+  {
+    "url": "https://vbpl.vn/_next/static/media/inter-vietnamese-700-normal.faf12809.woff2",
+    "status": 200,
+    "type": "font"
+  },
+  {
+    "url": "https://vbpl.vn/_next/static/media/inter-latin-500-normal.b7b43ace.woff2",
+    "status": 200,
+    "type": "font"
+  },
+  {
+    "url": "https://vbpl.vn/_next/static/media/inter-vietnamese-400-normal.de4fc44f.woff2",
+    "status": 200,
+    "type": "font"
+  },
+  {
+    "url": "https://www.gstatic.com/recaptcha/releases/TnA7HacJFoBWt9hnlunBlYfK/recaptcha__en.js",
+    "status": 200,
+    "type": "script"
+  },
+  {
+    "url": "https://www.google.com/recaptcha/api2/anchor?ar=1&k=6LedaiwsAAAAALjlCOkKYO8plQAYnoYTj5LCwRwp&co=aHR0cHM6Ly92YnBsLnZuOjQ0Mw..&hl=en&v=TnA7HacJFoBWt9hnlunBlYfK&size=invisible&anchor-ms=20000&execute-ms=30000&cb=bro7adezlf2b",
+    "status": 200,
+    "type": "document"
+  },
+  {
+    "url": "https://www.gstatic.com/recaptcha/releases/TnA7HacJFoBWt9hnlunBlYfK/recaptcha__en.js",
+    "status": 200,
+    "type": "script"
+  },
+  {
+    "url": "https://www.google.com/recaptcha/api2/anchor?ar=1&k=6LedaiwsAAAAALjlCOkKYO8plQAYnoYTj5LCwRwp&co=aHR0cHM6Ly92YnBsLnZuOjQ0Mw..&hl=en&v=TnA7HacJFoBWt9hnlunBlYfK&size=invisible&anchor-ms=20000&execute-ms=30000&cb=l29aqcmsw3jp",
+    "status": 200,
+    "type": "document"
+  },
+  {
+    "url": "https://www.gstatic.com/recaptcha/releases/TnA7HacJFoBWt9hnlunBlYfK/recaptcha__en.js",
+    "status": 200,
+    "type": "script"
+  },
+  {
+    "url": "https://www.gstatic.com/recaptcha/releases/TnA7HacJFoBWt9hnlunBlYfK/styles__ltr.css",
+    "status": 200,
+    "type": "stylesheet"
+  },
+  {
+    "url": "https://www.gstatic.com/recaptcha/releases/TnA7HacJFoBWt9hnlunBlYfK/styles__ltr.css",
+    "status": 200,
+    "type": "stylesheet"
+  },
+  {
+    "url": "https://www.gstatic.com/recaptcha/api2/logo_48.png",
+    "status": 200,
+    "type": "image"
+  },
+  {
+    "url": "https://www.gstatic.com/recaptcha/api2/logo_48.png",
+    "status": 200,
+    "type": "image"
+  },
+  {
+    "url": "https://www.google.com/recaptcha/api2/webworker.js?hl=en&v=TnA7HacJFoBWt9hnlunBlYfK",
+    "status": 200,
+    "type": "other"
+  },
+  {
+    "url": "https://www.google.com/recaptcha/api2/webworker.js?hl=en&v=TnA7HacJFoBWt9hnlunBlYfK",
+    "status": 200,
+    "type": "other"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/roboto/v48/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3yUBA.woff2",
+    "status": 200,
+    "type": "font"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/roboto/v48/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3yUBA.woff2",
+    "status": 200,
+    "type": "font"
+  },
+  {
+    "url": "https://www.gstatic.com/recaptcha/releases/TnA7HacJFoBWt9hnlunBlYfK/recaptcha__en.js",
+    "status": 200,
+    "type": "other"
+  },
+  {
+    "url": "https://www.gstatic.com/recaptcha/releases/TnA7HacJFoBWt9hnlunBlYfK/recaptcha__en.js",
+    "status": 200,
+    "type": "other"
+  },
+  {
+    "url": "https://vbpl.vn/",
+    "status": 200,
+    "type": "fetch"
+  },
+  {
+    "url": "https://vbpl.vn/",
+    "status": 200,
+    "type": "fetch"
+  },
+  {
+    "url": "https://vbpl.vn/",
+    "status": 200,
+    "type": "fetch"
+  },
+  {
+    "url": "https://vbpl.vn/",
+    "status": 200,
+    "type": "fetch"
+  },
+  {
+    "url": "https://vbpl.vn/_next/static/media/inter-vietnamese-500-normal.7c0a695f.woff2",
+    "status": 200,
+    "type": "font"
+  },
+  {
+    "url": "https://vbpl.vn/_next/static/media/inter-latin-ext-500-normal.d9b491de.woff2",
+    "status": 200,
+    "type": "font"
+  },
+  {
+    "url": "https://vbpl.vn/",
+    "status": 200,
+    "type": "fetch"
+  },
+  {
+    "url": "https://vbpl.vn/",
+    "status": 200,
+    "type": "fetch"
+  },
+  {
+    "url": "https://vbpl.vn/",
+    "status": 200,
+    "type": "fetch"
+  },
+  {
+    "url": "https://vbpl.vn/",
+    "status": 200,
+    "type": "fetch"
+  },
+  {
+    "url": "https://vbpl.vn/",
+    "status": 200,
+    "type": "fetch"
+  },
+  {
+    "url": "https://vbpl.vn/",
+    "status": 200,
+    "type": "fetch"
+  },
+  {
+    "url": "https://vbpl.vn/",
+    "status": 200,
+    "type": "fetch"
+  },
+  {
+    "url": "https://vbpl.vn/",
+    "status": 200,
+    "type": "fetch"
+  },
+  {
+    "url": "https://vbpl.vn/",
+    "status": 200,
+    "type": "fetch"
+  },
+  {
+    "url": "https://vbpl.vn/gioi-thieu?_rsc=19zvn",
+    "status": 200,
+    "type": "fetch"
+  },
+  {
+    "url": "https://vbpl.vn/van-ban/trung-uong?_rsc=19zvn",
+    "status": 200,
+    "type": "fetch"
+  },
+  {
+    "url": "https://vbpl.vn/van-ban/dia-phuong?_rsc=19zvn",
+    "status": 200,
+    "type": "fetch"
+  },
+  {
+    "url": "https://vbpl.vn/van-ban/chi-tiet/van-ban-hop-nhat-so-54-vbhn-bct-thong-tu-huong-dan-thuc-hien-hoat-dong-xuc-tien-thuong-mai-phat-trien-ngoai-thuong-thuoc-chuong-trinh-cap-quoc-gia-ve-xuc-tien-thuong-mai--0d132aa0-76c9-11f1-a8ce-29e7a77fccd0?_rsc=19zvn",
+    "status": 200,
+    "type": "fetch"
+  },
+  {
+    "url": "https://vbpl.vn/van-ban/chi-tiet/van-ban-hop-nhat-so-56-vbhn-bct-quyet-dinh-ve-viec-ban-hanh-quy-che-xay-dung-quan-ly-va-thuc-hien-chuong-trinh-cap-quoc-gia-ve-xuc-tien-thuong-mai--d557a130-76c9-11f1-af1b-512b19af30eb?_rsc=19zvn",
+    "status": 200,
+    "type": "fetch"
+  },
+  {
+    "url": "https://vbpl.vn/_next/static/chunks/app/gioi-thieu/page-1acd2026fc39a931.js",
+    "status": 200,
+    "type": "script"
+  },
+  {
+    "url": "https://vbpl.vn/van-ban/chi-tiet/van-ban-hop-nhat-so-57-vbhn-bct-nghi-dinh-so-quy-dinh-chi-tiet-luat-quan-ly-ngoai-thuong-ve-mot-so-bien-phap-phat-trien-ngoai-thuong--490159e0-76cb-11f1-a086-ff424fa6e141?_rsc=19zvn",
+    "status": 200,
+    "type": "fetch"
+  },
+  {
+    "url": "https://vbpl.vn/van-ban/chi-tiet/van-ban-hop-nhat-so-55-vbhn-bct-nghi-dinh-quy-dinh-chi-tiet-luat-thuong-mai-ve-hoat-dong-xuc-tien-thuong-mai--ca278e10-76c9-11f1-8824-2b6c6342e011?_rsc=19zvn",
+    "status": 200,
+    "type": "fetch"
+  },
+  {
+    "url": "https://vbpl.vn/",
+    "status": 200,
+    "type": "fetch"
+  },
+  {
+    "url": "https://vbpl.vn/",
+    "status": 200,
+    "type": "fetch"
+  },
+  {
+    "url": "https://vbpl.vn/",
+    "status": 200,
+    "type": "fetch"
+  },
+  {
+    "url": "https://vbpl.vn/",
+    "status": 200,
+    "type": "fetch"
+  }
+]
