@@ -159,6 +159,8 @@ def google_login(req: GoogleLoginReq, db: Session = Depends(get_db)):
         # Auto register
         user_in = UserCreate(email=email, password="google_oauth_dummy", name=name)
         user = crud_user.user.create(db, obj_in=user_in)
+    elif user.is_active == 0:
+        raise HTTPException(status_code=400, detail="Tài khoản đã bị khóa")
         
     access_token_expires = timedelta(minutes=settings.ACCESS_TOKEN_EXPIRE_MINUTES)
     return {
