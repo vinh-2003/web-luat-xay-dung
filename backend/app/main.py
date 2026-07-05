@@ -24,6 +24,10 @@ from app.services.scheduler import start_scheduler
 async def lifespan(app: FastAPI):
     # Khởi tạo scheduler khi ứng dụng bắt đầu
     start_scheduler()
+    # Khởi tạo DB tables (Rất quan trọng khi deploy lên cloud mới)
+    from app.db.database import engine, Base
+    Base.metadata.create_all(bind=engine)
+    
     # Khởi tạo admin
     db = SessionLocal()
     try:
