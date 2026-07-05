@@ -20,3 +20,5 @@ pyjwt
 python-multipart
 google-auth==2.55.1  
 aiofiles==23.2.1
+pdfplumber
+python-docx
