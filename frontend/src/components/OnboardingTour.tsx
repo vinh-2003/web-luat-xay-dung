@@ -120,7 +120,7 @@ export default function OnboardingTour() {
       run={run}
       continuous={true}
       scrollToFirstStep={true}
-
+      // @ts-ignore - Prop exists in react-joyride but types are outdated
       showSkipButton={true}
       floaterProps={{
         disableAnimation: true,
