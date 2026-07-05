@@ -26,6 +26,10 @@ async def lifespan(app: FastAPI):
     start_scheduler()
     # Khởi tạo DB tables (Rất quan trọng khi deploy lên cloud mới)
     from app.db.database import engine, Base
+    from sqlalchemy import text
+    with engine.connect() as conn:
+        conn.execute(text("CREATE EXTENSION IF NOT EXISTS vector"))
+        conn.commit()
     Base.metadata.create_all(bind=engine)
     
     # Khởi tạo admin
