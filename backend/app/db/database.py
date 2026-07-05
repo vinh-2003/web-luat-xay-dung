@@ -6,9 +6,14 @@ db_url = settings.DATABASE_URL
 if db_url.startswith("postgresql://"):
     db_url = db_url.replace("postgresql://", "postgresql+psycopg://", 1)
 
+connect_args = {}
+if "pooler.supabase.com" in db_url:
+    connect_args["prepare_threshold"] = None
+
 engine = create_engine(
     db_url, 
     pool_pre_ping=True,
+    connect_args=connect_args
     # echo=True # Uncomment for SQL logging
 )
 
