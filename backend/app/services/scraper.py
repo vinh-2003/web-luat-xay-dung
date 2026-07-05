@@ -297,7 +297,7 @@ class LuatXayDungScraper:
                     page = await context.new_page()
                     
                     print(f"=== TÌM KIẾM TỪ KHÓA: {keyword} ===")
-                    await page.goto("https://vbpl.vn/")
+                    await page.goto("https://vbpl.vn/", timeout=60000, wait_until="domcontentloaded")
                     await page.wait_for_load_state("networkidle")
                     await page.wait_for_timeout(2000)
                     
@@ -551,7 +551,7 @@ class LuatXayDungScraper:
             page = await context.new_page()
             try:
                 print("Truy cập trang moc.gov.vn...")
-                await page.goto("https://moc.gov.vn/vn/Pages/Vanbanphapluat.aspx")
+                await page.goto("https://moc.gov.vn/vn/Pages/Vanbanphapluat.aspx", timeout=60000, wait_until="domcontentloaded")
                 await page.wait_for_load_state("networkidle")
                 
                 page_num = 1
@@ -632,7 +632,7 @@ class LuatXayDungScraper:
                                 doc_data["origin_url"] = full_url
                                 
                                 new_page = await context.new_page()
-                                await new_page.goto(full_url)
+                                await new_page.goto(full_url, timeout=60000, wait_until="domcontentloaded")
                                 await new_page.wait_for_load_state("networkidle")
                                 
                                 # Lấy thêm thông tin từ bảng chi tiết trên trang MOC
@@ -800,7 +800,7 @@ class LuatXayDungScraper:
                     
                     try:
                         page = await context.new_page()
-                        await page.goto(url)
+                        await page.goto(url, timeout=60000, wait_until="domcontentloaded")
                         await page.wait_for_load_state("networkidle")
                         await page.wait_for_timeout(2000)
                         
